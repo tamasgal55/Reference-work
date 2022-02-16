@@ -3,9 +3,13 @@ This project uses the following technologies: Python, Flask, SQLAlchemy, Jinja, 
 ## Setup & Installtion
 
 Make sure you have the latest version of Python installed.
+Open command line
 
 ```bash
 git clone <repo-url>
+```
+```bash
+cd Reference-work
 ```
 
 ```bash
