@@ -3,6 +3,7 @@ This project uses the following technologies: Python, Flask, SQLAlchemy, Jinja, 
 ## Setup & Installtion
 
 Make sure you have the latest version of Python installed.
+
 Open command line
 
 ```bash
