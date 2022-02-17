@@ -9,12 +9,9 @@ Open command line
 ```bash
 git clone <repo-url>
 ```
-```bash
-cd Reference-work
-```
 
 ```bash
-pip install -r requirements.txt
+pip install -r Reference-work\requirements.txt
 ```
 
 ## Running The App
