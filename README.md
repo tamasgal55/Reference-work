@@ -17,7 +17,7 @@ pip install -r Reference-work\requirements.txt
 ## Running The App
 
 ```bash
-python main.py
+python Reference-work\main.py
 ```
 
 ## Viewing The App
